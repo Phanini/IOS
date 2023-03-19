@@ -8,7 +8,7 @@ Included are testing files ``stock-2.log``, ``stock-4.log.gz`` and ``stock-6.log
 
 # Here are some example calls of this script:
 
-``cat stock-2.log | head -n 5 | ./tradelog
+```cat stock-2.log | head -n 5 | ./tradelog
 
 ./tradelog -t TSLA -t V stock-2.log
 
@@ -20,4 +20,4 @@ Included are testing files ``stock-2.log``, ``stock-4.log.gz`` and ``stock-6.log
 
 ./tradelog hist-ord stock-2.log
 
-./tradelog -w 100 graph-pos stock-6.log``
+./tradelog -w 100 graph-pos stock-6.log```
