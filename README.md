@@ -1,6 +1,8 @@
 # TRADELOG SCRIPT
-This is the folder containing the first project of IOS (Operating systems) @FIT VUT BRNO. Writen by Jakub Phan.
-Project revolves around bash, awk and usage of terminal. 
+First project of IOS (Operating systems) @FIT VUT BRNO. 
+Author: Jakub Phan
+# ABOUT
+A script that acts as a tool to variously filter tradelogs. Project uses knowladge of bash, awk command line. 
 # Usage 
 USAGE OF SCRIPT: ``tradelog [-h|--help] [flag] [command] [LOG [LOG2 [...]]``
 
