@@ -20,4 +20,5 @@ Included are testing files ``stock-2.log``, ``stock-4.log.gz`` and ``stock-6.log
 
 ./tradelog hist-ord stock-2.log
 
-./tradelog -w 100 graph-pos stock-6.log```
+./tradelog -w 100 graph-pos stock-6.log
+```
